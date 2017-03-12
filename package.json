@@ -1,0 +1,23 @@
+{
+  "name": "fatigue-test-mocha-react",
+  "version": "0.0.1",
+  "description": "Add dependencies for test React with mocha and enzyme.",
+  "homepage": "https://github.com/amadormf/fatigue-test-mocha-react#readme",
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadormf/fatigue-test-mocha-react.git"
+  },
+  "author": "Amador Mateo <amateofernandez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amadormf/fatigue-test-mocha-react/issues"
+  },
+  "dependencies": {
+    "chai-enzyme": "0.6.1",
+    "enzyme": "2.7.1",
+    "fatigue-test-mocha": "0.2.0"
+  }
+}
