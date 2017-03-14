@@ -16,8 +16,9 @@
     "url": "https://github.com/amadormf/fatigue-test-mocha-react/issues"
   },
   "dependencies": {
+    "babel-register": "^6.23.0",
     "chai-enzyme": "0.6.1",
     "enzyme": "2.7.1",
-    "fatigue-test-mocha": "0.2.0"
+    "fatigue-test-mocha": "^0.3.0"
   }
 }
