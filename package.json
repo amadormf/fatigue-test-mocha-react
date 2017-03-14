@@ -1,6 +1,6 @@
 {
   "name": "fatigue-test-mocha-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Add dependencies for test React with mocha and enzyme.",
   "homepage": "https://github.com/amadormf/fatigue-test-mocha-react#readme",
   "scripts": {
