@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "babel-register": "^6.23.0",
-    "chai-enzyme": "0.6.1",
-    "enzyme": "2.7.1",
-    "fatigue-test-mocha": "^0.3.0"
+    "chai-enzyme": "0.8.0",
+    "enzyme": "3.3.0",
+    "fatigue-test-mocha": "^1.0.1"
   }
 }
